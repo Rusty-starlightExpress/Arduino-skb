@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "esp8266:esp8266:d1",
+    "name": "ESP8266 WeMos D1 R1",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}

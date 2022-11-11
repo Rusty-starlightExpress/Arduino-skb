@@ -1,0 +1,8 @@
+・ESP8266追加
+・TM1637 6deg LED 追加
+　ファイル- 環境設定
+    追加のボードマネージャーのURL [ http://arduino.esp8266.com/stable/package_esp8266com_index.json ]
+
+  ツール-ライブラリマネージャー
+   [ esp8266 by ESP8266 Community ] 追加
+   [ TM1637TinyDisplay ] 追加
