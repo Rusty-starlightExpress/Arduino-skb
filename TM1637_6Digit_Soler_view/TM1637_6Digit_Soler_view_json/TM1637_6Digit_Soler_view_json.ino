@@ -18,7 +18,7 @@
 #include <ArduinoJson.h>
 
 #ifndef STASSID
-#define STASSID "aterm-10815d-g"
+#define STASSID "aterm-10815d-hpg"
 #define STAPSK  "48a530348599a"
 #define LOCALHOST "solar"
 #endif
